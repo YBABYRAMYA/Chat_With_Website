@@ -1,6 +1,6 @@
 ---
 
-# 🌐 Chat with Website Using RAG Pipeline
+# 🌐 Chat with Website Using RAG Pipeline 🌐
 
 Leverage the power of AI to extract, filter, and query content from web pages! **Chat with Websites** is a simple yet robust tool designed to make web content interaction intuitive and insightful.
 
